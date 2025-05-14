@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cihan_Hoca_Emlakci/1.0.0": {
+        "dependencies": {
+          "EmlakciLib": "1.0.0"
+        },
+        "runtime": {
+          "Cihan_Hoca_Emlakci.dll": {}
+        }
+      },
+      "EmlakciLib/1.0.0": {
+        "runtime": {
+          "EmlakciLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cihan_Hoca_Emlakci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmlakciLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
