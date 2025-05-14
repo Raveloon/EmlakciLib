@@ -1,0 +1,9 @@
+C:\Users\Emre\source\repos\EmlakciLib\bin\Debug\netstandard2.1\EmlakciLib.deps.json
+C:\Users\Emre\source\repos\EmlakciLib\bin\Debug\netstandard2.1\EmlakciLib.dll
+C:\Users\Emre\source\repos\EmlakciLib\bin\Debug\netstandard2.1\EmlakciLib.pdb
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.AssemblyInfo.cs
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.dll
+C:\Users\Emre\source\repos\EmlakciLib\obj\Debug\netstandard2.1\EmlakciLib.pdb
